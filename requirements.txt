@@ -1,0 +1,12 @@
+torch>=2.1
+transformers>=4.46
+datasets>=2.19
+evaluate>=0.4
+scikit-learn>=1.4
+pysentiment2>=0.1
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+joblib
+tqdm
+jupyter
